@@ -1,6 +1,6 @@
 ### Hi there, I'm Mostafa Magdy! 👋
 
-I'm a third-year Computer Engineering student from Egypt, passionate about Competitive Programming and Web Development. Always eager to learn new things and work on exciting projects.
+I'm a fourth-year Computer Engineering student from Egypt, passionate about Competitive Programming and Web Development. Always eager to learn new things and work on exciting projects.
 <h3 align="left">  🤝🏻 Connect with me:</h3>
 <p align="center">
 <br>
