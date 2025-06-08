@@ -12,9 +12,4 @@ I'm a fourth-year Computer Engineering student from Egypt, passionate about Comp
 </a>
 </p>
 
-
-### Statistics
-![MostafaMagdyy github Stats](https://github-readme-stats.vercel.app/api?username=MostafaMagdyy&show_icons=true&include_all_commits=true)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MostafaMagdyy&show_icons=true&locale=en&layout=compact" alt="MostafaMagdyy" />
-
 <img src="https://komarev.com/ghpvc/?username=MostafaMagdyy&label=Profile%20views&color=0e75b6&style=flat" alt="MostafaMagdyy" />
